@@ -1,0 +1,41 @@
+.next-trip {
+    background-color: #FFF;
+    border-radius: 1.2rem;
+    padding: 1.5rem;
+    box-shadow: 100px -100px 100px #59b0e62d, 0 0 20px #F0F0F0;
+    max-width: 400px;
+    margin: auto;
+}
+.next-trip img {
+    border-radius: 20px;
+}
+.next-trip .trip-icon {
+    background-color: #F5F5F5;
+    width: 42px;
+    height: 42px;
+}
+.next-trip .trip-icon svg {
+    fill: #5E6282
+}
+.ongoing-trip {
+    bottom: 55px;
+    right: -80px;
+    background-color: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 5px 5px #F0F0F0;
+}
+.ongoing-trip img {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.progress {
+    height: 3px;
+    border-radius: 3px;
+    background-color: #F5F5F5;
+}
+.passed {
+    height: 3px;
+    border-radius: 3px;
+    background-color: #8A79DF;
+}
