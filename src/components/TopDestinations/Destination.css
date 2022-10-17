@@ -1,0 +1,10 @@
+.destination {
+    background-color: #FFF;
+    border-radius: 1rem;
+    box-shadow: 0 50px 25px #F0F0F0;
+    overflow: hidden;
+}
+.destination-photo {
+    max-height: 350px;
+    overflow: hidden;
+}

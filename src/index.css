@@ -28,3 +28,6 @@ img {
   font-size: 1.2rem;
   text-transform: uppercase;
 }
+.big-margin {
+  margin-top: 100px;
+}
